@@ -4,7 +4,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "cmdaltent-personal"
 
     workspaces {
       name = "learn-terraform"
